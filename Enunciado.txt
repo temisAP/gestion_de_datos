@@ -1,0 +1,15 @@
+
+El paradigma NewSpace
+
+Páginas web con componetes:
+	https://www.cubesatshop.com/productcategory/command-and-data-handling
+	https://www.cubesatshop.com/product/isis-onboard-computer/
+	https://www.cubesatshop.com/product/iceps-spacecraft-system-core/
+
+Hay que coger los datos de la misión de la CDA y si se puede de otras tb
+
+Puntos a evaluar:
+	Memoria (principal y de almacenamiento)
+	Capacidad de cómputo (arquitectura del procesador, velocidad del reloj, presencia o no de elementos de optimización y aceleración como: memorias caché, FPU, y coprocesadores)
+	Interfaz con el resto de sistemas (buses y conectores)
+	
