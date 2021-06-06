@@ -1,0 +1,14 @@
+Datos de telemetría y telecomandos:
+
+	Link period:
+	Link avalilability:
+	Bit rate:
+	Housekeeping:
+
+
+Cargas de pago
+	Carga de pago fotónica
+		Son 3 parejas de radiómetros 24Mbits más o menos
+	Sistema de micropropulsión
+	Array de retrorrelfectores
+		Establecen conexión a unos 10-50 Mbps
